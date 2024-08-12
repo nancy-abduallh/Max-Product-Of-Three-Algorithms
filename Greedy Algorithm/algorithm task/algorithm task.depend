@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1714044799 source:c:\users\newshop\onedrive\desktop\pl2\algorithm task\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1714042290 source:c:\users\newshop\onedrive\desktop\pl2\algorithm task\recursion.c
+	<stdio.h>
+	<limits.h>
+
+1714248238 source:n:\algorithm task\algorithm task\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
